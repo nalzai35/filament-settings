@@ -59,7 +59,7 @@ php artisan vendor:publish --tag="filament-settings-views"
 
 ## Usage
 
-Create a settings page at 'app/Filament/Pages/Settings/Settings.php':
+Create a settings page at `app/Filament/Pages/Settings/Settings.php`:
 ```php
 namespace App\Filament\Pages\Settings;
 
@@ -120,10 +120,6 @@ composer test
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security Vulnerabilities
 
