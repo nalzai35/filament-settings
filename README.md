@@ -1,8 +1,6 @@
 # Filament Settings
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/nalzai35/filament-settings.svg?style=flat-square)](https://packagist.org/packages/nalzai35/filament-settings)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/nalzai35/filament-settings/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/nalzai35/filament-settings/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/nalzai35/filament-settings/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/nalzai35/filament-settings/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/nalzai35/filament-settings.svg?style=flat-square)](https://packagist.org/packages/nalzai35/filament-settings)
 
 This package adds a settings page in the filaments stored in your database.
