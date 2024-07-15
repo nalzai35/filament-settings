@@ -100,7 +100,17 @@ class Settings extends SettingsPage
     }
 }
 ```
+### Retrieving settings
+You can retrieve settings using the helper function `setting()`, like the `config()` function in Laravel:
+```php
+setting('general.name');
 
+// Retrieve a default value if the configuration value does not exist...
+setting('general.name', 'Filament Settings');
+
+// To set configuration values at runtime
+setting(['general.timezone' => 'America/Chicago']);
+```
 ## Testing
 
 ```bash
