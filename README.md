@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/nalzai35/filament-settings/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/nalzai35/filament-settings/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/nalzai35/filament-settings.svg?style=flat-square)](https://packagist.org/packages/nalzai35/filament-settings)
 
-Paket ini menambahkan halaman pengaturan di filament yang disimpan dalam basis data Anda.
+This package adds a settings page in the filaments stored in your database.
 
 ## Support us
 
